@@ -1,0 +1,44 @@
+{
+    "name": "@rifandavinci/ai-chatbot",
+    "version": "1.0.0",
+    "description": "Get AI responses from multiple models (GPT-4, Claude, Llama, Mixtral) with simple API calls",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "ai",
+      "chat",
+      "gpt4",
+      "claude",
+      "llama",
+      "mixtral",
+      "chatbot",
+      "artificial-intelligence",
+      "nlp",
+      "language-model",
+      "api-wrapper"
+    ],
+    "author": {
+      "name": "Rifan Davinci",
+      "url": "https://github.com/rifandavinci"
+    },
+    "license": "MIT",
+    "dependencies": {
+      "node-fetch": "^2.7.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rifandavinci/ai-chatbot.git"
+    },
+    "bugs": {
+      "url": "https://github.com/rifandavinci/ai-chatbot/issues"
+    },
+    "homepage": "https://github.com/rifandavinci/ai-chatbot#readme",
+    "engines": {
+      "node": ">=12.0.0"
+    },
+    "publishConfig": {
+      "access": "public"
+    }
+  }
