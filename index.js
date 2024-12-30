@@ -1,5 +1,5 @@
 // ----------------------------------------------. 
-// Fann Davinci - 2024/2025
+// Halo, dari Fann Davinci
 // https://github.com/rifandavinci
 // https://www.npmjs.com/~rifandavinci
 // ----------------------------------------------. 
